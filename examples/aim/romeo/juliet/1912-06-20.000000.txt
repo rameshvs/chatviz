@@ -1,0 +1,50 @@
+Conversation with Juliet at Thu 20 Jun 1912 12:00:00 AM on Romeo
+(12:20:00 AM) Romeo: And hire those horses. I'll be with thee straight.
+(12:40:00 AM) Romeo: Exit [Balthasar].
+(01:00:00 AM) Romeo: Well, Juliet, I will lie with thee to-night.
+(01:20:00 AM) Romeo: Let's see for means. O mischief, thou art swift
+(01:40:00 AM) Romeo: To enter in the thoughts of desperate men!
+(02:00:00 AM) Romeo: I do remember an apothecary,
+(02:20:00 AM) Romeo: And hereabouts 'a dwells, which late I noted
+(02:40:00 AM) Romeo: In tatt'red weeds, with overwhelming brows,
+(03:00:00 AM) Romeo: Culling of simples. Meagre were his looks,
+(03:20:00 AM) Romeo: Sharp misery had worn him to the bones;
+(03:40:00 AM) Romeo: And in his needy shop a tortoise hung,
+(04:00:00 AM) Romeo: An alligator stuff'd, and other skins
+(04:20:00 AM) Romeo: Of ill-shaped fishes; and about his shelves
+(04:40:00 AM) Romeo: A beggarly account of empty boxes,
+(05:00:00 AM) Romeo: Green earthen pots, bladders, and musty seeds,
+(05:20:00 AM) Romeo: Remnants of packthread, and old cakes of roses
+(05:40:00 AM) Romeo: Were thinly scattered, to make up a show.
+(06:00:00 AM) Romeo: Noting this penury, to myself I said,
+(06:20:00 AM) Romeo: 'An if a man did need a poison now
+(06:40:00 AM) Romeo: Whose sale is present death in Mantua,
+(07:00:00 AM) Romeo: Here lives a caitiff wretch would sell it him.'
+(07:20:00 AM) Romeo: O, this same thought did but forerun my need,
+(07:40:00 AM) Romeo: And this same needy man must sell it me.
+(08:00:00 AM) Romeo: As I remember, this should be the house.
+(08:20:00 AM) Romeo: Being holiday, the beggar's shop is shut. What, ho! apothecary!
+(10:40:00 AM) Romeo:  Come hither, man. I see that thou art poor.
+(11:00:00 AM) Romeo: Hold, there is forty ducats. Let me have
+(11:20:00 AM) Romeo: A dram of poison, such soon-speeding gear
+(11:40:00 AM) Romeo: As will disperse itself through all the veins
+(12:00:00 PM) Romeo: That the life-weary taker mall fall dead,
+(12:20:00 PM) Romeo: And that the trunk may be discharg'd of breath
+(12:40:00 PM) Romeo: As violently as hasty powder fir'd
+(01:00:00 PM) Romeo: Doth hurry from the fatal cannon's womb.
+(02:40:00 PM) Romeo:  Art thou so bare and full of wretchedness
+(03:00:00 PM) Romeo: And fearest to die? Famine is in thy cheeks,
+(03:20:00 PM) Romeo: Need and oppression starveth in thine eyes,
+(03:40:00 PM) Romeo: Contempt and beggary hangs upon thy back:
+(04:00:00 PM) Romeo: The world is not thy friend, nor the world's law;
+(04:20:00 PM) Romeo: The world affords no law to make thee rich;
+(04:40:00 PM) Romeo: Then be not poor, but break it and take this.
+(06:00:00 PM) Romeo:  I pay thy poverty and not thy will.
+(08:00:00 PM) Romeo:  There is thy gold- worse poison to men's souls,
+(08:20:00 PM) Romeo: Doing more murther in this loathsome world,
+(08:40:00 PM) Romeo: Than these poor compounds that thou mayst not sell.
+(09:00:00 PM) Romeo: I sell thee poison; thou hast sold me none.
+(09:20:00 PM) Romeo: Farewell. Buy food and get thyself in flesh.
+(09:40:00 PM) Romeo: Come, cordial and not poison, go with me
+(10:00:00 PM) Romeo: To Juliet's grave; for there must I use thee.
+(10:20:00 PM) Romeo: Exeunt.

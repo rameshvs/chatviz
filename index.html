@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en" xml:lang="en">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <title>Chat log word clouds</title>
+    <link type="text/css" rel="stylesheet" href="content/site.css" />
+    <link type="text/css" rel="stylesheet" href="content/tipsy.css" />
+
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://d3js.org/d3.v2.min.js"></script>
+
+    <script type="text/javascript" src="https://raw.github.com/rameshvs/jsplotlib/master/jsplotlib.min.js"></script>
+    <!-- <script type="text/javascript" src="content/jsplotlib.js"></script> -->
+
+    <script type="text/javascript" src="content/jquery.tipsy.js"></script>
+    <script type="text/javascript" src="content/wordclouds.js"></script>
+    </head>
+    <body>
+    <h1 id="title">Dynamic word cloud</h1>
+    <div id="chart-area">
+        <div id="start-slider-container" class="slider-container">
+            <div id="slider-label-start" class="slider-name" width="600">Start:</div>
+            <div id="start-slider-div" class="slider">
+                <input type="range" id="start-slider" min="0" step="1" />
+            </div>
+            <div class="slider-report" id="start-slider-label">0</div>
+        </div>
+            <br />
+        <div id="end-slider-container" class="slider-container" width="600">
+
+            <div id="slider-label-end" class="slider-name">End:</div>
+            <div id="end-slider-div" class="slider">
+                <input type="range" id="end-slider" min="0" step="1" />
+            </div>
+            <div class="slider-report" id="end-slider-label">0</div>
+        </div>
+        <div class="end-marker"></div>
+    </div>
+    <br />
+    <div class="cloud">
+        Word cloud for <span id="meName">me</span><br />
+        <span class="cloud-words" id="me-cloud"></span>
+    </div>
+
+    <div class="cloud">
+        Word cloud for <span id="otherName">other person</span> <br />
+        <span class="cloud-words" id="other-cloud"></span>
+    </body>
+</html>

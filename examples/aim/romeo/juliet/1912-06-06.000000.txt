@@ -1,0 +1,35 @@
+Conversation with Juliet at Thu 06 Jun 1912 12:00:00 AM on Romeo
+(12:00:00 PM) Juliet:  Wilt thou be gone? It is not yet near day.
+(12:20:00 PM) Juliet: It was the nightingale, and not the lark,
+(12:40:00 PM) Juliet: That pierc'd the fearful hollow of thine ear.
+(01:00:00 PM) Juliet: Nightly she sings on yond pomegranate tree.
+(01:20:00 PM) Juliet: Believe me, love, it was the nightingale.
+(02:00:00 PM) Romeo:  It was the lark, the herald of the morn;
+(02:20:00 PM) Romeo: No nightingale. Look, love, what envious streaks
+(02:40:00 PM) Romeo: Do lace the severing clouds in yonder East.
+(03:00:00 PM) Romeo: Night's candles are burnt out, and jocund day
+(03:20:00 PM) Romeo: Stands tiptoe on the misty mountain tops.
+(03:40:00 PM) Romeo: I must be gone and live, or stay and die.
+(04:20:00 PM) Juliet:  Yond light is not daylight; I know it, I.
+(04:40:00 PM) Juliet: It is some meteor that the sun exhales
+(05:00:00 PM) Juliet: To be to thee this night a torchbearer
+(05:20:00 PM) Juliet: And light thee on the way to Mantua.
+(05:40:00 PM) Juliet: Therefore stay yet; thou need'st not to be gone.
+(06:20:00 PM) Romeo:  Let me be ta'en, let me be put to death.
+(06:40:00 PM) Romeo: I am content, so thou wilt have it so.
+(07:00:00 PM) Romeo: I'll say yon grey is not the morning's eye,
+(07:20:00 PM) Romeo: 'Tis but the pale reflex of Cynthia's brow;
+(07:40:00 PM) Romeo: Nor that is not the lark whose notes do beat
+(08:00:00 PM) Romeo: The vaulty heaven so high above our heads.
+(08:20:00 PM) Romeo: I have more care to stay than will to go.
+(08:40:00 PM) Romeo: Come, death, and welcome! Juliet wills it so.
+(09:00:00 PM) Romeo: How is't, my soul? Let's talk; it is not day.
+(09:40:00 PM) Juliet:  It is, it is! Hie hence, be gone, away!
+(10:00:00 PM) Juliet: It is the lark that sings so out of tune,
+(10:20:00 PM) Juliet: Straining harsh discords and unpleasing sharps.
+(10:40:00 PM) Juliet: Some say the lark makes sweet division;
+(11:00:00 PM) Juliet: This doth not so, for she divideth us.
+(11:20:00 PM) Juliet: Some say the lark and loathed toad chang'd eyes;
+(11:40:00 PM) Juliet: O, now I would they had chang'd voices too,
+(12:00:00 AM) Juliet: Since arm from arm that voice doth us affray,
+(12:20:00 AM) Juliet: Hunting thee hence with hunt's-up to the day!

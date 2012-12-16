@@ -1,0 +1,30 @@
+Conversation with Juliet at Sat 18 May 1912 12:00:00 AM on Romeo
+(12:40:00 AM) Juliet:  Romeo!
+(01:20:00 AM) Romeo:  My dear?
+(02:00:00 AM) Juliet:  At what o'clock to-morrow
+(02:20:00 AM) Juliet: Shall I send to thee?
+(03:00:00 AM) Romeo:  By the hour of nine.
+(03:40:00 AM) Juliet:  I will not fail. 'Tis twenty years till then.
+(04:00:00 AM) Juliet: I have forgot why I did call thee back.
+(04:40:00 AM) Romeo:  Let me stand here till thou remember it.
+(05:20:00 AM) Juliet:  I shall forget, to have thee still stand there,
+(05:40:00 AM) Juliet: Rememb'ring how I love thy company.
+(06:20:00 AM) Romeo:  And I'll still stay, to have thee still forget,
+(06:40:00 AM) Romeo: Forgetting any other home but this.
+(07:20:00 AM) Juliet:  'Tis almost morning. I would have thee gone-
+(07:40:00 AM) Juliet: And yet no farther than a wanton's bird,
+(08:00:00 AM) Juliet: That lets it hop a little from her hand,
+(08:20:00 AM) Juliet: Like a poor prisoner in his twisted gyves,
+(08:40:00 AM) Juliet: And with a silk thread plucks it back again,
+(09:00:00 AM) Juliet: So loving-jealous of his liberty.
+(09:40:00 AM) Romeo:  I would I were thy bird.
+(10:20:00 AM) Juliet:  Sweet, so would I.
+(10:40:00 AM) Juliet: Yet I should kill thee with much cherishing.
+(11:00:00 AM) Juliet: Good night, good night! Parting is such sweet sorrow,
+(11:20:00 AM) Juliet: That I shall say good night till it be morrow.
+(11:40:00 AM) Juliet: [Exit.]
+(12:20:00 PM) Romeo:  Sleep dwell upon thine eyes, peace in thy breast!
+(12:40:00 PM) Romeo: Would I were sleep and peace, so sweet to rest!
+(01:00:00 PM) Romeo: Hence will I to my ghostly father's cell,
+(01:20:00 PM) Romeo: His help to crave and my dear hap to tell.
+(01:40:00 PM) Romeo: Exit

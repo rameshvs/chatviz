@@ -1,0 +1,51 @@
+body {
+    font-family: "helvetica";
+    text-align: center;
+}
+.slider {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 50px;
+}
+.end-marker {
+    clear: both;
+}
+.cloud-words a {
+    text-decoration: none;
+}
+.cloud-words a:hover {
+    text-decoration: underline;
+}
+
+.cloud {
+    text-align: center;
+    word-spacing: 4px;
+    margin: 25px auto;
+    font: 75% Arial, "MS Trebuchet", sans-serif;
+}
+
+g.subbar {
+    stroke: white;
+}
+g.bar_graph_series[series_label=other] g.subbar[is_active=true] {
+    fill: #ff5522;
+}
+
+g.bar_graph_series[series_label=other] g.subbar[is_active=false] {
+    fill: #ffbbaa;
+}
+
+g.bar_graph_series[series_label=me] g.subbar[is_active=true] {
+    fill: #2255ff;
+}
+
+g.bar_graph_series[series_label=me] g.subbar[is_active=false] {
+    fill: #aabbff;
+}
+
+/* Not sure if setting width on input range is standards-compliant, 
+ * but it works for now */
+input[type=range] {
+    width: 300px;
+}
+

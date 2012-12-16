@@ -1,0 +1,29 @@
+Conversation with Juliet at Sun 02 Jun 1912 12:00:00 AM on Romeo
+(12:20:00 AM) Juliet: There is no end, no limit, measure, bound,
+(12:40:00 AM) Juliet: In that word's death; no words can that woe sound.
+(01:00:00 AM) Juliet: Where is my father and my mother, nurse?
+(02:40:00 AM) Juliet:  Wash they his wounds with tears? Mine shall be spent,
+(03:00:00 AM) Juliet: When theirs are dry, for Romeo's banishment.
+(03:20:00 AM) Juliet: Take up those cords. Poor ropes, you are beguil'd,
+(03:40:00 AM) Juliet: Both you and I, for Romeo is exil'd.
+(04:00:00 AM) Juliet: He made you for a highway to my bed;
+(04:20:00 AM) Juliet: But I, a maid, die maiden-widowed.
+(04:40:00 AM) Juliet: Come, cords; come, nurse. I'll to my wedding bed;
+(05:00:00 AM) Juliet: And death, not Romeo, take my maidenhead!
+(07:20:00 AM) Juliet:  O, find him! give this ring to my true knight
+(07:40:00 AM) Juliet: And bid him come to take his last farewell.
+(08:00:00 AM) Juliet: Exeunt.
+(02:00:00 PM) Romeo:  Father, what news? What is the Prince's doom
+(02:20:00 PM) Romeo: What sorrow craves acquaintance at my hand
+(02:40:00 PM) Romeo: That I yet know not?
+(04:40:00 PM) Romeo:  What less than doomsday is the Prince's doom?
+(06:20:00 PM) Romeo:  Ha, banishment? Be merciful, say 'death';
+(06:40:00 PM) Romeo: For exile hath more terror in his look,
+(07:00:00 PM) Romeo: Much more than death. Do not say 'banishment.'
+(08:40:00 PM) Romeo:  There is no world without Verona walls,
+(09:00:00 PM) Romeo: But purgatory, torture, hell itself.
+(09:20:00 PM) Romeo: Hence banished is banish'd from the world,
+(09:40:00 PM) Romeo: And world's exile is death. Then 'banishment'
+(10:00:00 PM) Romeo: Is death misterm'd. Calling death 'banishment,'
+(10:20:00 PM) Romeo: Thou cut'st my head off with a golden axe
+(10:40:00 PM) Romeo: And smilest upon the stroke that murders me.
