@@ -13,7 +13,7 @@ import chatviz.server
 
 if __name__ == '__main__':
     if len(sys.argv) != 2 or sys.argv[1] not in ('--plots', '--server'):
-        print('USAGE: [%s --plots] or [%s --server]' % (sys.argv[0], sys.argv[0]))
+        print('USAGE: %s [--plots | --server]' % sys.argv[0])
         sys.exit(1)
     source_dir = os.path.dirname(os.path.abspath(__file__))
     example_dir = os.path.join(source_dir,'examples')

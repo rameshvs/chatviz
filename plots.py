@@ -42,13 +42,27 @@ def plot_all(datetime_lists, counter_lists, labels):
     colors = ['#ff1133', '#3311ff']
     #colors = ['#00ff00', '#ffffff']
     plt.figure()
-    top = plt.subplot(2,1,1)
+    top_ax = plt.subplot(2,1,1)
     counts = [[ctr.total() for ctr in counters] for counters in counter_lists]
-    plot_cumulative_volume(datetime_lists, counts, ax=top, labels=labels, styles=colors)
+    plot_cumulative_volume(datetime_lists, counts, ax=top_ax, labels=labels, styles=colors)
 
-    ax = plt.subplot(2,1,2)
+    bottom_ax = plt.subplot(2,1,2)
+    grids = []
     for i in (0,1):
-        plot_conversation_density(datetime_lists[i], counts[i], ax, color=colors[i])
+        grids.append(plot_conversation_density(datetime_lists[i],
+                                               counts[i],
+                                               bottom_ax,
+                                               color=colors[i]))
+
+    # Now, show conversation frequency
+    plt.figure()
+    ax = plt.gca()
+    nonzero_counts = [grid[grid > 0] for grid in grids]
+    maximum = max(map(np.max, nonzero_counts))
+    ax.hist(nonzero_counts, bins=np.arange(maximum+1), label=labels, color=colors)
+    plt.legend()
+
+
 
 def plot_conversation_density(datetimes, counts, ax=None,
                               alpha=0.04, scale=2000, color='b'):
@@ -66,7 +80,7 @@ def plot_conversation_density(datetimes, counts, ax=None,
                 for plotting
     color     : color for the scatterplot
 
-    Returns nothing
+    Returns the data in the grid as a 2D array (date x hour)
 
     For example:
         (date_lists, counter_lists) = chatviz.logread.generate_everything(...)
@@ -79,7 +93,7 @@ def plot_conversation_density(datetimes, counts, ax=None,
     """
     # TODO: implement this in JS, where mouseover shows the top words
     N = len(counts)
-    assert len(counts) == len(datetimes)
+    assert len(counts) == len(datetimes), "Inputs should be the same length"
     dates = np.zeros(N)
     times = np.zeros(N)
     counts = np.array(counts)
@@ -117,6 +131,9 @@ def plot_conversation_density(datetimes, counts, ax=None,
     (xs, ys, cs) = zip(*scatter_points)
     cs = np.array(cs)
     cs = cs / np.max(cs) * scale
+    if ax is None:
+        plt.figure()
+        ax = plt.gca()
     ax.scatter(xs, ys, cs, alpha=alpha, edgecolors='none', c=color)
 
     ax.axis([date_edges[0],date_edges[-1],time_edges[-1],time_edges[0]])
@@ -136,6 +153,11 @@ def plot_conversation_density(datetimes, counts, ax=None,
     ax.yaxis_date()
 
     ax.set_title('Conversation density')
+
+    # TODO returning this here is a little unclean: maybe refactor grid
+    # computation code into a separate function?
+    return grid
+
 
 def plot_cumulative_volume(date_lists, count_lists,
                            ax=None, labels=None, styles=ALL_STYLES):

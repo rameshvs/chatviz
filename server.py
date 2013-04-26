@@ -129,7 +129,7 @@ class WordCloudServer(object):
         self.names = ('me', 'other') # all paired lists have same order as this
         self.set_RGBs('me', ((0xCC,0xBB,0xAA),(0x22,0x55,0xFF)))
         self.set_RGBs('other', ((0xAA,0xBB,0xCC),(0xFF,0x55,0x22)))
-        self._set_number_of_words(20)
+        self._set_number_of_words(100)
 
         print("Done binning words. Precomputing clouds...")
         self.cache = {}
